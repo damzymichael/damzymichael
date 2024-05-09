@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Michael also known as damzymike
+
+## I'm a freelance fullstack web developer 💻
+
 
 <!--
 **damzymichael/damzymichael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
