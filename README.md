@@ -1,9 +1,8 @@
 ## Hi there 👋 I'm Michael also known as damzymike
 
 ### I'm a freelance fullstack web developer 💻
-
-🔭 I'm currently building an API for a mobile app and a admin dashboard
-🌱 I'm currently learning python and PHP
+- 🔭 I'm currently building an API for a mobile app and a admin dashboard
+- 🌱 I'm currently learning python and PHP
 👯 I'm looking to collaborate with anyone on any project
 💬 Ask me about anything, how may I be of help
 
