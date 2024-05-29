@@ -7,7 +7,7 @@ I'm a Fullstack web developer
 I build fullstack web applications with the use of javascript, typescripts and its frameworks
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [My portfolio](http://portfolio-demo-blush.vercel.app)
+* 🖥️  See my portfolio at [My portfolio](http://portfolio.damzymike.com)
 * ✉️  You can contact me at [damzymike@gmail.com](mailto:damzymike@gmail.com)
 * 🚀  I'm currently working on [an admin dashboard](http://vootv-admin.vercel.app)
 * 🧠  I'm learning Python
